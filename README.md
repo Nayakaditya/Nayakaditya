@@ -1,3 +1,4 @@
+![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Aditya Nayak</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D03AQH1dWVCjuJ9mQ/profile-displayphoto-shrink_800_800/0/1671218844408?e=2147483647&v=beta&t=dUuIxu6IbU-tgOGReJfBK3VNfVkBCbNoZc_7iy4BYec">

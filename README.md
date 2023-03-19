@@ -18,7 +18,7 @@ align = "right" width="400" alt="Coding" src="https://camo.githubusercontent.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya nayak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codefather" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codefather" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@adityanayak498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codefather" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aditya nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditya nayak" height="30" width="40" /></a>
 </p>
 
